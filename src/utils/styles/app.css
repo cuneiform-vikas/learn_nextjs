@@ -1,0 +1,11 @@
+/* Mobile Portrait */
+@media screen and (min-width: 200px) and (max-width: 430px) and (orientation: portrait) {}
+
+/* Mobile Landscape */
+@media screen and (min-width: 200px) and (max-width: 915px) and (orientation: landscape) {}
+
+/* Tablet Portrait */
+@media screen and (min-width: 430px) and (max-width: 912px) and (orientation: portrait) {}
+
+/* Tablet landscape */
+@media screen and (min-width: 916px) and (max-width: 1180px) and (orientation: landscape) {}
